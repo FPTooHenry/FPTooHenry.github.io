@@ -11,7 +11,7 @@ const textConfig = {
   text10: "Anh biết mà ^^ Yêu Em 300.000",
   text11:
     "Tối nay nhớ Count Down Năm Mới với anh nhaa :v Còn giờ thì chờ gì nữa mà ko inbox cho Anh đi nàooo",
-  text12: "Okii lunn <3",
+  text12: "Okiii lunn <3 ",
 };
 
 $(document).ready(function () {
